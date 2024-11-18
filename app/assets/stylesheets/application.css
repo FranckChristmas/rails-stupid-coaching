@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ .shad {
+    box-shadow: 1px 1px 5px 1px grey;
+    text-decoration: none;
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+
+
+ }
